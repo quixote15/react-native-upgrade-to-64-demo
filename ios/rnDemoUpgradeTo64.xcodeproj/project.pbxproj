@@ -13,13 +13,11 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1B882D56854E638418ADF40E /* libPods-rnDemoUpgradeTo64-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CEA75DC58874C7C3BEEA6DA /* libPods-rnDemoUpgradeTo64-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* rnDemoUpgradeTo64Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rnDemoUpgradeTo64Tests.m */; };
 		76E419B5F2CC84E7C7D1BEC0 /* libPods-rnDemoUpgradeTo64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B86D8E7CEB7A0E66F314295 /* libPods-rnDemoUpgradeTo64.a */; };
-		FED48B829323ABFCD921F0AA /* libPods-rnDemoUpgradeTo64-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD42DBCB342A1808B79026A4 /* libPods-rnDemoUpgradeTo64-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,18 +53,12 @@
 		269EBC11289506568A296FCD /* libPods-rnDemoUpgradeTo64Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnDemoUpgradeTo64Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E47B1E0B4A5D006451C7 /* rnDemoUpgradeTo64-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rnDemoUpgradeTo64-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* rnDemoUpgradeTo64-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rnDemoUpgradeTo64-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		41A293117052C1D1864DFC8E /* Pods-rnDemoUpgradeTo64-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64-tvOS/Pods-rnDemoUpgradeTo64-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		4CEA75DC58874C7C3BEEA6DA /* libPods-rnDemoUpgradeTo64-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnDemoUpgradeTo64-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57E22555B2DE41622E06C9DD /* Pods-rnDemoUpgradeTo64Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64Tests.debug.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64Tests/Pods-rnDemoUpgradeTo64Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		58CA85912B8A1320E746A8AA /* Pods-rnDemoUpgradeTo64-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64-tvOS/Pods-rnDemoUpgradeTo64-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		709DD76F2AF233E7A6222642 /* Pods-rnDemoUpgradeTo64Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64Tests.release.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64Tests/Pods-rnDemoUpgradeTo64Tests.release.xcconfig"; sourceTree = "<group>"; };
 		AA0F699C968EDD48E28CD787 /* Pods-rnDemoUpgradeTo64.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64.debug.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64.debug.xcconfig"; sourceTree = "<group>"; };
-		CEAA3907B14495819DEAB9EF /* Pods-rnDemoUpgradeTo64-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64-tvOSTests/Pods-rnDemoUpgradeTo64-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		D44002CF1FBE7D432AFEAB25 /* Pods-rnDemoUpgradeTo64.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64.release.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F2A627F119443EDCE1C48A2B /* Pods-rnDemoUpgradeTo64-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnDemoUpgradeTo64-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rnDemoUpgradeTo64-tvOSTests/Pods-rnDemoUpgradeTo64-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		FD42DBCB342A1808B79026A4 /* libPods-rnDemoUpgradeTo64-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnDemoUpgradeTo64-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +82,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FED48B829323ABFCD921F0AA /* libPods-rnDemoUpgradeTo64-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,7 +89,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B882D56854E638418ADF40E /* libPods-rnDemoUpgradeTo64-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,8 +132,6 @@
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				1B86D8E7CEB7A0E66F314295 /* libPods-rnDemoUpgradeTo64.a */,
-				FD42DBCB342A1808B79026A4 /* libPods-rnDemoUpgradeTo64-tvOS.a */,
-				4CEA75DC58874C7C3BEEA6DA /* libPods-rnDemoUpgradeTo64-tvOSTests.a */,
 				269EBC11289506568A296FCD /* libPods-rnDemoUpgradeTo64Tests.a */,
 			);
 			name = Frameworks;
@@ -154,10 +142,6 @@
 			children = (
 				AA0F699C968EDD48E28CD787 /* Pods-rnDemoUpgradeTo64.debug.xcconfig */,
 				D44002CF1FBE7D432AFEAB25 /* Pods-rnDemoUpgradeTo64.release.xcconfig */,
-				58CA85912B8A1320E746A8AA /* Pods-rnDemoUpgradeTo64-tvOS.debug.xcconfig */,
-				41A293117052C1D1864DFC8E /* Pods-rnDemoUpgradeTo64-tvOS.release.xcconfig */,
-				F2A627F119443EDCE1C48A2B /* Pods-rnDemoUpgradeTo64-tvOSTests.debug.xcconfig */,
-				CEAA3907B14495819DEAB9EF /* Pods-rnDemoUpgradeTo64-tvOSTests.release.xcconfig */,
 				57E22555B2DE41622E06C9DD /* Pods-rnDemoUpgradeTo64Tests.debug.xcconfig */,
 				709DD76F2AF233E7A6222642 /* Pods-rnDemoUpgradeTo64Tests.release.xcconfig */,
 			);
@@ -230,6 +214,8 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				E28FBA2480C228C152842F6C /* [CP] Embed Pods Frameworks */,
+				0AAB1F87482A8142EF879966 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -244,7 +230,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnDemoUpgradeTo64-tvOS" */;
 			buildPhases = (
-				8C23980B49F8044305D68FF6 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -264,7 +249,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rnDemoUpgradeTo64-tvOSTests" */;
 			buildPhases = (
-				BC1432C47416FF5EF43514D6 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -373,6 +357,24 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
+		0AAB1F87482A8142EF879966 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -431,48 +433,22 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		8C23980B49F8044305D68FF6 /* [CP] Check Pods Manifest.lock */ = {
+		E28FBA2480C228C152842F6C /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${PODS_ROOT}/Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
 			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnDemoUpgradeTo64-tvOS-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BC1432C47416FF5EF43514D6 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rnDemoUpgradeTo64-tvOSTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnDemoUpgradeTo64/Pods-rnDemoUpgradeTo64-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -662,7 +638,6 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 58CA85912B8A1320E746A8AA /* Pods-rnDemoUpgradeTo64-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -690,7 +665,6 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41A293117052C1D1864DFC8E /* Pods-rnDemoUpgradeTo64-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -718,7 +692,6 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F2A627F119443EDCE1C48A2B /* Pods-rnDemoUpgradeTo64-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -745,7 +718,6 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CEAA3907B14495819DEAB9EF /* Pods-rnDemoUpgradeTo64-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -801,6 +773,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -854,6 +827,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
