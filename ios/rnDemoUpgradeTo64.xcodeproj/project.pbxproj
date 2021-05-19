@@ -610,7 +610,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEAD_CODE_STRIPPING = NO;
+				DEAD_CODE_STRIPPING = YES;
 				INFOPLIST_FILE = rnDemoUpgradeTo64/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -618,6 +618,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRESERVE_DEAD_CODE_INITS_AND_TERMS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = rnDemoUpgradeTo64;
 				SWIFT_OBJC_BRIDGING_HEADER = "rnDemoUpgradeTo64-Bridging-Header.h";
@@ -642,6 +643,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRESERVE_DEAD_CODE_INITS_AND_TERMS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = rnDemoUpgradeTo64;
 				SWIFT_OBJC_BRIDGING_HEADER = "rnDemoUpgradeTo64-Bridging-Header.h";
